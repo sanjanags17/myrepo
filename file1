@@ -5,3 +5,4 @@ echo $age
 echo $name
 echo $age
 echo $name
+vi addfile1
