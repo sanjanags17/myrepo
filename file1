@@ -1,4 +1,4 @@
-name="sanjana"
+name="Sanjana"
 age=22
 echo $name
 echo $age
@@ -7,6 +7,7 @@ echo $age
 echo $name
 Designation="SANJANA G S is Full Time Employee in COGNIZANT"
 echo $Designation
+
 
 
 
