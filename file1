@@ -1,8 +1,7 @@
-name="sanjana"
+name="Sanjana"
 age=22
 echo $name
 echo $age
 echo $name
 echo $age
 echo $name
-vi addfile1
