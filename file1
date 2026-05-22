@@ -5,5 +5,8 @@ echo $age
 echo $name
 echo $age
 echo $name
+Designation="SANJANA G S is Full Time Employee in COGNIZANT"
+echo $Designation
+
 
 
