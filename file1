@@ -4,3 +4,4 @@ echo $name
 echo $age
 echo $name
 echo $age
+echo $name
